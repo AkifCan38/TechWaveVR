@@ -40,7 +40,7 @@ Question: How will the pre-order form handle data validation?
 ## My Page
 https://tech-wave-vr.vercel.app
 ## My Page Video
-https://github.com/AkifCan38/Innovatech-VR-Pro/assets/148538864/bc572dcd-690f-4d00-ba9c-c8004754c4f9
+https://github.com/AkifCan38/TechWaveVR/assets/148538864/c403f736-39d9-42f2-b4ce-a9d919cc8eae
 ## Some Screen Shots my page
 ### App.js
 ![Screenshot (85)](https://github.com/AkifCan38/Innovatech-VR-Pro/assets/148538864/603b5974-6d0b-4a22-8d41-57458448e2a5)
