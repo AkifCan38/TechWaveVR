@@ -1,0 +1,26 @@
+.news-container {
+    max-width: 800px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: rgba(30, 7, 7, 0.28);
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #f3f3f3;
+}
+
+.news-item {
+    padding: 20px;
+    background-color: rgba(72, 43, 43, 0.24);
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(9, 0, 0, 0.1);
+    color: #f3f3f3;
+    margin-bottom: 10px;
+}
+
+.news-item h3 {
+    margin-bottom: 15px;
+}
+
+.news-item p {
+    margin-bottom: 5px;
+}

@@ -1,0 +1,33 @@
+.contact-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+
+}
+
+.contact-box {
+    padding: 80px;
+    background-color: rgba(134, 83, 83, 0.33);
+    border-radius: 5px;
+    box-shadow: 0 8px 16px rgba(7, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 400px;
+}
+
+.contact-info {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.contact-info p {
+    margin-bottom: 5px;
+}
+
+.icon {
+    margin-right: 20px;
+}
